@@ -16,7 +16,6 @@
     "tests"
   ],
   "devDependencies": {
-    "angular-mocks": "~1.2.16",
     "moment": "~2.6.0"
   },
   "dependencies": {
